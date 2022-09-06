@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Neehh/Fsub2",
+  "repository": "https://github.com/Rohidkage/Fsub2",
   "logo": "https://telegra.ph/file/7f06a20f6bec6fa888535.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,15 +15,15 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "jsmnxyyz"
+      "value": "KageBunshiiin"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "973175059"
+      "value": "1557184285"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
-      "value": "0"
+      "value": "1557184285 1821140802 5305919189"
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
